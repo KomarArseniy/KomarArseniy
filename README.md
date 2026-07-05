@@ -42,11 +42,11 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 <div align="center">
 ## 🚀 Featured Project – Wire Messenger
 
-[Short description of your best project — what it does, key features, and why it's cool]
+Full-stack real-time messenger with WebSocket messaging, Telegram-style delivery statuses, and live presence tracking.
 
-**Tech:** React 19 · TypeScript (strict) · [add technologies]
-**Security:** [mention any security features if applicable]
-**Architecture:** [mention architecture approach]
+**Tech:** React 19 · TypeScript (strict) · TanStack Query · Zustand · Socket.IO · Node.js · Express · PostgreSQL
+**Security:** Access + Refresh JWT (httpOnly cookie) with auto-refresh, socket authenticated via JWT (sender ID derived from token, not client input)
+**Architecture:** Hooks-based frontend with clear server/client state separation, layered backend, fully typed REST and WebSocket contracts
 
 🔗 [Live Demo](https://messengerwire-production-6230.up.railway.app/) · 📂 [GitHub](https://github.com/KomarArseniy/Messenger_Wire)
 
@@ -56,10 +56,10 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Project 1](https://github.com/KomarArseniy/FutureTech-Site) | Short description | React · TypeScript · Vite |
-| [Project 2](https://github.com/KomarArseniy/EatLy-Site) | Landing for EatLy Site | HTML · SCSS · JavaScript |
-| [Project 3](https://github.com/KomarArseniy/ToDoListApp)) | Simple To Do Application | TypeScript · React · SCSS |
-| [Project 4](https://github.com/KomarArseniy/messenger) | Previous version of Wire Messenger | JavaScript · CSS · Node.js |
+| [FutureTech](https://github.com/KomarArseniy/FutureTech-Site) | Responsive landing page for the FutureTech AI News portal, built with React. | React · TypeScript · Vite |
+| [EatLy](https://github.com/KomarArseniy/EatLy-Site) |  Responsive multi-section landing page for the EatLy food delivery service | React · SCSS · JavaScript · Swiper.js |
+| [To Do List App](https://github.com/KomarArseniy/ToDoListApp)) | Task management application built with React 19 and TypeScript, using Vite for bundling and SCSS for styling. | TypeScript · React · SCSS |
+| [Messenger](https://github.com/KomarArseniy/messenger) | Previous version of Wire Messenger | JavaScript · CSS · Node.js |
 
 ---
 
