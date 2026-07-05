@@ -40,9 +40,10 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 ---
 
 <div align="center">
-## 🚀 Featured Project – Wire Messenger
+ 
+  # 🚀 Featured Project – Wire Messenger
 
-Full-stack real-time messenger with WebSocket messaging, Telegram-style delivery statuses, and live presence tracking.
+**Full-stack** real-time messenger with WebSocket messaging, Telegram-style delivery statuses, and live presence tracking.
 
 **Tech:** React 19 · TypeScript (strict) · TanStack Query · Zustand · Socket.IO · Node.js · Express · PostgreSQL
 **Security:** Access + Refresh JWT (httpOnly cookie) with auto-refresh, socket authenticated via JWT (sender ID derived from token, not client input)
