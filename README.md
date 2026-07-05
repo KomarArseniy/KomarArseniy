@@ -37,11 +37,14 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 </div>
----
 
 <div align="center">
+
+---
  
-  # 🚀 Featured Project – Wire Messenger
+  ## 🚀 Featured Project – Wire Messenger
+  
+</div>
 
 **Full-stack** real-time messenger with WebSocket messaging, Telegram-style delivery statuses, and live presence tracking.
 
@@ -49,7 +52,7 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 **Security:** Access + Refresh JWT (httpOnly cookie) with auto-refresh, socket authenticated via JWT (sender ID derived from token, not client input)
 **Architecture:** Hooks-based frontend with clear server/client state separation, layered backend, fully typed REST and WebSocket contracts
 
-🔗 [Live Demo](https://messengerwire-production-6230.up.railway.app/) · 📂 [GitHub](https://github.com/KomarArseniy/Messenger_Wire)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge)](https://messengerwire-production-6230.up.railway.app/)·[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KomarArseniy/Messenger_Wire)
 
 ---
 
@@ -64,7 +67,6 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 
 ---
 
----
 
 ## 📫 Let's Connect
 
