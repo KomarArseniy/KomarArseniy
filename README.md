@@ -62,7 +62,7 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 |---------|-------------|-------|
 | [FutureTech](https://github.com/KomarArseniy/FutureTech-Site) | Responsive landing page for the FutureTech AI News portal, built with React. | React · TypeScript · Vite |
 | [EatLy](https://github.com/KomarArseniy/EatLy-Site) |  Responsive multi-section landing page for the EatLy food delivery service | React · SCSS · JavaScript · Swiper.js |
-| [To Do List App](https://github.com/KomarArseniy/ToDoListApp)) | Task management application built with React 19 and TypeScript, using Vite for bundling and SCSS for styling. | TypeScript · React · SCSS |
+| [To Do List App](https://github.com/KomarArseniy/ToDoListApp) | Task management application built with React 19 and TypeScript, using Vite for bundling and SCSS for styling. | TypeScript · React · SCSS |
 | [Messenger](https://github.com/KomarArseniy/messenger) | Previous version of Wire Messenger | JavaScript · CSS · Node.js |
 
 ---
