@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arseniy
 
-## 🚀 Frontend Developer · 3rd year BSUIR Student (FCSaN)  
+## 🚀 Frontend Developer · 4th year BSUIR Student (FCSaN)  
 
 I build modern web apps with React and TypeScript, focusing on clean architecture, maintainable code, and smooth user experience.
 
