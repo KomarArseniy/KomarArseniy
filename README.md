@@ -38,6 +38,23 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 
 </div>
 
+--- 
+
+<div align="center">
+
+## 🙋 About Me
+
+</div>
+- 🎓 4th-year Software Engineering student at BSUIR (FCSaN)
+- 💻 Frontend-focused, but I build my own backends too — I like understanding the full system my UI talks to, not just the surface
+- 🏗️ Care about clean architecture and typed, maintainable code over quick hacks
+- 📚 Currently leveling up: advanced TypeScript, testing (Vitest/RTL), and design patterns
+- 🎯 Looking for a Junior Frontend role or internship where I can grow fast and ship real things
+- 🌱 Learn best by building — everything in this profile is a deployed, working project, not a tutorial clone
+- ⚡ Comfortable using AI tools to move faster, but I always read and understand every line before it ships
+
+Open to interesting projects, internships, and just talking shop about frontend architecture — reach out below 👇
+
 <div align="center">
 
 ---
