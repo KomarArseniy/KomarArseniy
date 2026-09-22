@@ -45,6 +45,7 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 ## 🙋 About Me
 
 </div>
+
 - 🎓 4th-year Software Engineering student at BSUIR (FCSaN)
 - 💻 Frontend-focused, but I build my own backends too — I like understanding the full system my UI talks to, not just the surface
 - 🏗️ Care about clean architecture and typed, maintainable code over quick hacks
@@ -53,7 +54,7 @@ I build modern web apps with React and TypeScript, focusing on clean architectur
 - 🌱 Learn best by building — everything in this profile is a deployed, working project, not a tutorial clone
 - ⚡ Comfortable using AI tools to move faster, but I always read and understand every line before it ships
 
-Open to interesting projects, internships, and just talking shop about frontend architecture — reach out below 👇
+Open to interesting projects, internships, and just talking shop about frontend architecture
 
 <div align="center">
 
@@ -66,10 +67,12 @@ Open to interesting projects, internships, and just talking shop about frontend 
 **Full-stack** real-time messenger with WebSocket messaging, Telegram-style delivery statuses, and live presence tracking.
 
 **Tech:** React 19 · TypeScript (strict) · TanStack Query · Zustand · Socket.IO · Node.js · Express · PostgreSQL
+
 **Security:** Access + Refresh JWT (httpOnly cookie) with auto-refresh, socket authenticated via JWT (sender ID derived from token, not client input)
+
 **Architecture:** Hooks-based frontend with clear server/client state separation, layered backend, fully typed REST and WebSocket contracts
 
-[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge)](https://messengerwire-production-6230.up.railway.app/)·[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KomarArseniy/Messenger_Wire)
+[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge)](https://messengerwire-production-6230.up.railway.app/) [![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KomarArseniy/Messenger_Wire)
 
 ---
 
